@@ -1,4 +1,4 @@
-```markdown
+
 # ⚡ Electronics Components Handbook
 
 **Author:** Kushan Sameera  
@@ -77,4 +77,3 @@ If you find this handbook useful:
 > **"Every component exists to do exactly one job — source, convert, control, protect, sense, connect, or load."**
 
 ---
-```
